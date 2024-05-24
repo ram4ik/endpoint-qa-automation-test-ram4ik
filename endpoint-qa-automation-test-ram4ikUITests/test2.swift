@@ -9,8 +9,8 @@ class GmailAutomationDragDropTests2: XCTestCase {
         continueAfterFailure = false
         app.launch()
         
-        copyFileToDocuments(filename: "attachments.txt")
-        copyFileContentsToClipboard(filename: "attachments.txt")
+        //copyFileToDocuments(filename: "endpoint-qa-automation-test-ram4ikUITests/attachments.txt")
+        copyFileContentsToClipboard(filename: "endpoint-qa-automation-test-ram4ikUITests/attachments.txt")
     }
 
     func testComposeEmailWithDragAndDropAttachment() {

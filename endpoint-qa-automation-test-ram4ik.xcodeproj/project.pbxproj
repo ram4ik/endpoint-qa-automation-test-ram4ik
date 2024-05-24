@@ -102,6 +102,7 @@
 		5E1C9E882BFC81C200AB9E1D /* endpoint-qa-automation-test-ram4ikUITests */ = {
 			isa = PBXGroup;
 			children = (
+				5E5880092C005BA200A35BE2 /* attachments.txt */,
 				5E5880022C0054AD00A35BE2 /* helper */,
 				5E1C9E932BFC822F00AB9E1D /* test1.swift */,
 				5E1C9E952BFC823E00AB9E1D /* test2.swift */,
@@ -114,7 +115,6 @@
 			isa = PBXGroup;
 			children = (
 				5E5880032C0054BC00A35BE2 /* helper.swift */,
-				5E5880092C005BA200A35BE2 /* attachments.txt */,
 			);
 			path = helper;
 			sourceTree = "<group>";
